@@ -161,4 +161,11 @@ img {
     .card{
         margin-bottom: 50px;
     }
+    .steps{
+        margin-bottom: 0;
+    }
+    .why-us{
+        background-color: #222222;
+        padding-top: 20px;
+    }
 }
